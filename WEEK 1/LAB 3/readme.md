@@ -4,12 +4,12 @@
 
 The image below shows two employee in the finance unit. They are to be granted workspace on AWS. 
 
-![ass1_1](/Cloud-Practioner/images/ass1_1.png)
+![ass1_1](/SolutionsArchLabs/images/ass1_1.png)
 
 Perform the following task as described on the attached image
 
 
-![ass1_2](/Cloud-Practioner/images/ass1_2.png)
+![ass1_2](/SolutionsArchLabs/images/ass1_2.png)
 
 
 Note:
