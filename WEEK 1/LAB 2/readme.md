@@ -4,10 +4,16 @@
 
 In an organization demo.io, they have 5 people in different unit as listed:
 
-i.   Dele     technical expert  
+i.   Dele     technical expert 
+
 ii.  Ade      technical support
+
 iii. Segun    Storage expert
+
 iv.  Gbenga   Admin support
+
+v. Sharon  Finance head
+
 
 Your task in this lab is to create 
 
