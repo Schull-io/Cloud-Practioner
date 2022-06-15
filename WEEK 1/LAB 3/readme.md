@@ -6,7 +6,7 @@ The image below shows two employee in the finance unit. They are to be granted w
 
 ![ass1_1](/images/ass1_1.png)
 
-Perform the following task as described on the attached imagee
+Perform the following task as described on the attached image
 
 
 ![ass1_2](/images/ass1_2.png)
